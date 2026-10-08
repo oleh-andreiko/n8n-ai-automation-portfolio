@@ -1,0 +1,5 @@
+.claude/
+*.local.json
+.env
+Thumbs.db
+desktop.ini
